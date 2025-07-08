@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xanderel
-- 👀 I’m interested in Xilinx FPGAs, embedded C/C++, and Python
-- 🌱 I’m currently learning Computer & Electrical Engineering @ Texas Tech University
+- 👀 I’m interested in FPGAs, embedded C/C++, Python for DSP, and PCB design!
+- 🌱 I’m currently working full-time as an embedded engineer!
 - 💞️ I’m looking to collaborate on anything that would be a good fit for me!
-- 📫 You can reach me at ethaelli@ttu.edu
+- 📫 You can reach me at ethane0329@gmail.com
 
 <!---
 xanderel/xanderel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
