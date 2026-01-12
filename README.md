@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xanderel
-- 👀 I’m interested in FPGAs, embedded C/C++, Python for DSP, and PCB design!
+- 👀 I’m interested in FPGAs, embedded C/C++, DSP, and PCB design!
 - 🌱 I’m currently working full-time as an embedded engineer!
 - 💞️ I’m looking to collaborate on anything that would be a good fit for me!
 - 📫 You can reach me at ethane0329@gmail.com
